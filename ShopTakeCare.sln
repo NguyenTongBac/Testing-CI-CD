@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopTakeCare", "ShopTakeCare.csproj", "{FE3861D0-06DA-0E0C-4464-E93333115635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3861D0-06DA-0E0C-4464-E93333115635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3861D0-06DA-0E0C-4464-E93333115635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3861D0-06DA-0E0C-4464-E93333115635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3861D0-06DA-0E0C-4464-E93333115635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0863F12B-72CB-40AD-A25F-66194DFB2346}
+	EndGlobalSection
+EndGlobal
